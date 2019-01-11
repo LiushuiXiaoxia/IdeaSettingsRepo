@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="build_dictsql" type="PLAIN_TEXT" />
       <mapping ext="ssql" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
