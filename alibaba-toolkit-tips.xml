@@ -4,5 +4,6 @@
     <entry projectName="apm" firstStartUp="false" />
     <entry projectName="image-demo" firstStartUp="false" />
     <entry projectName="mobile-plus" firstStartUp="false" />
+    <entry projectName="springboot-deploy-demo" firstStartUp="false" />
   </component>
 </application>
