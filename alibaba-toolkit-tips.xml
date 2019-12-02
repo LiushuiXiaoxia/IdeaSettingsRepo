@@ -1,0 +1,20 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/workspace/github/image-demo" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/workspace/github/springboot-deploy-demo" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/workspace/java-demo/easy-captcha" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/workspace/java-demo/websocket-demo" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/workspace/vipabc_backend/IFMS" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/workspace/vipabc_backend/ifms-ci" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/workspace/vipabc_backend/mobile-plus" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/workspace/vipabc_mem/passport" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/workspace/vipabc_mem/toolbar" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/workspace/vipabc_mem/webapp" firstStartUp="false" />
+    <entry projectName="apm" firstStartUp="false" />
+    <entry projectName="image-demo" firstStartUp="false" />
+    <entry projectName="java-design-patterns" firstStartUp="false" />
+    <entry projectName="mobile-plus" firstStartUp="false" />
+    <entry projectName="springboot-deploy-demo" firstStartUp="false" />
+  </component>
+</application>
