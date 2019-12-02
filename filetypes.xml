@@ -2,9 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping ext="crt" type="Native" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
-      <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="build_dictsql" type="PLAIN_TEXT" />
       <mapping ext="ssql" type="PLAIN_TEXT" />
