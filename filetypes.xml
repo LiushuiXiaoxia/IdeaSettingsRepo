@@ -3,9 +3,9 @@
     <extensionMap>
       <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern="LOG_FILE_IS_UNDEFINED" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="config/demo-service-dev/data" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="build_dictsql" type="PLAIN_TEXT" />
       <mapping ext="ssql" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
