@@ -8,6 +8,7 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="LOG_FILE_IS_UNDEFINED" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
+      <mapping pattern="stale_outputs_checked" type="PLAIN_TEXT" />
       <mapping ext="ssql" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
