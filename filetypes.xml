@@ -10,6 +10,7 @@
       <mapping pattern="stale_outputs_checked" type="PLAIN_TEXT" />
       <mapping pattern="build_dictsql" type="PLAIN_TEXT" />
       <mapping ext="ssql" type="PLAIN_TEXT" />
+      <mapping ext="md_" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
