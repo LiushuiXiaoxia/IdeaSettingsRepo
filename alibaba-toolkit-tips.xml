@@ -3,8 +3,11 @@
     <option name="globalFirstStartUp" value="false" />
     <entry projectName="$USER_HOME$/workspace/Simple/EasyFeedbackBackend" firstStartUp="false" />
     <entry projectName="$USER_HOME$/workspace/github/Java-WebSocket" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/workspace/github/ProtoStuffGen" firstStartUp="false" />
     <entry projectName="$USER_HOME$/workspace/github/image-demo" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/workspace/github/mybatis-plus-gradle-generator" firstStartUp="false" />
     <entry projectName="$USER_HOME$/workspace/github/springboot-deploy-demo" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/workspace/java-demo/JavaDemo" firstStartUp="false" />
     <entry projectName="$USER_HOME$/workspace/java-demo/demo" firstStartUp="false" />
     <entry projectName="$USER_HOME$/workspace/java-demo/easy-captcha" firstStartUp="false" />
     <entry projectName="$USER_HOME$/workspace/java-demo/hehe-demo" firstStartUp="false" />
@@ -13,6 +16,7 @@
     <entry projectName="$USER_HOME$/workspace/vipabc_backend/IFMS" firstStartUp="false" />
     <entry projectName="$USER_HOME$/workspace/vipabc_backend/MicroDemo" firstStartUp="false" />
     <entry projectName="$USER_HOME$/workspace/vipabc_backend/ifms-ci" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/workspace/vipabc_backend/ifms-deploy" firstStartUp="false" />
     <entry projectName="$USER_HOME$/workspace/vipabc_backend/mobile-plus" firstStartUp="false" />
     <entry projectName="$USER_HOME$/workspace/vipabc_mem/passport" firstStartUp="false" />
     <entry projectName="$USER_HOME$/workspace/vipabc_mem/toolbar" firstStartUp="false" />
