@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="app" type="Erlang/OTP app" />
+      <removed_mapping ext="app" approved="true" type="Erlang/OTP app" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern="config/demo-service-dev/data" type="PLAIN_TEXT" />
@@ -11,9 +11,10 @@
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping pattern="stale_outputs_checked" type="PLAIN_TEXT" />
       <mapping ext="ssql" type="PLAIN_TEXT" />
-      <mapping ext="md_" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
-      <removed_mapping ext="app" type="Erlang/OTP app" />
+      <mapping ext="app" type="PLAIN_TEXT" />
+      <mapping ext="md_" type="PLAIN_TEXT" />
+      <removed_mapping ext="app" approved="true" type="Erlang/OTP app" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
