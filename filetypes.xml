@@ -13,6 +13,7 @@
       <mapping ext="ssql" type="PLAIN_TEXT" />
       <mapping ext="md_" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <removed_mapping ext="app" type="Erlang/OTP app" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
