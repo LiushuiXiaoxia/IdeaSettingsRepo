@@ -44,6 +44,9 @@
   <action id="GotoBookmark2" />
   <action id="GotoBookmark9" />
   <action id="GotoNextError" />
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Images.Editor.ActualSize" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="control button2" />
@@ -67,6 +70,7 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="SaveAll" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="ctrl 1" />
