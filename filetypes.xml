@@ -3,6 +3,7 @@
     <extensionMap>
       <removed_mapping ext="app" approved="true" type="Erlang/OTP app" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern="config/demo-service-dev/data" type="PLAIN_TEXT" />
       <mapping pattern="build_dictsql" type="PLAIN_TEXT" />
